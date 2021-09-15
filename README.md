@@ -5,3 +5,4 @@ this is the 3rd repo for my reading notes in code fellows, it will contain all t
 read01 | [go to](https://lawrenceabudubai.github.io/reading-notes301/read01)
 read02 | [go to](https://lawrenceabudubai.github.io/reading-notes301/read02)
 read03 | [go to](https://lawrenceabudubai.github.io/reading-notes301/read03)
+read04 | [go to](https://lawrenceabudubai.github.io/reading-notes301/read04)
