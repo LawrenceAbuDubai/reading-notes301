@@ -274,6 +274,7 @@ setTimeout(function() {
   ReactDOM.render(<input value={null} />, mountNode);
 }, 1000);
 ```
+
 ## Alternatives to Controlled Components
 
 Because you must construct an event handler for every method your data can change and pipe all of the input information through a React component, using controlled components can be difficult at times. When converting an old codebase to React or integrating a React application with a non-React library, this can be extremely aggravating. In these cases, you might want to consider using uncontrolled components, a different approach to constructing input forms.
